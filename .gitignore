@@ -1,0 +1,4 @@
+venv/
+crawler/venv/
+indexer/venv/
+query-service/venv
